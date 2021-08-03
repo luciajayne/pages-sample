@@ -1,12 +1,10 @@
 [Google](http://google.com/)
 ---
-layout: post
+layout: home
 title: Data Science Bootcamp
-date: 2021-08
-categories: science
 ---
 
-## Welcome everyone Lucia's Data Science Site!
+## Digital Declutter Research!
 
 
 #### Here are some example pages:
