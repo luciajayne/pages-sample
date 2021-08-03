@@ -1,9 +1,12 @@
+[dummy text](http://google.com/)
 ---
-layout: default
-title: Home
+layout: post
+title: Data Science Bootcamp
+date: 2021-08
+categories: science
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome everyone Lucia's Data Science Site!
 
 
 #### Here are some example pages:
