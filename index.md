@@ -1,7 +1,8 @@
-
 ---
+
 layout: home
 title: Data Science Bootcamp
+
 ---
 
 ## Digital Declutter Research!
