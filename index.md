@@ -1,4 +1,4 @@
-[dummy text](http://google.com/)
+[Google](http://google.com/)
 ---
 layout: post
 title: Data Science Bootcamp
