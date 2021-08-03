@@ -1,6 +1,6 @@
 ---
 
-layout: home
+layout: default
 title: Data Science Bootcamp
 
 ---
