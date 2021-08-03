@@ -1,4 +1,4 @@
-[Google](http://google.com/)
+
 ---
 layout: home
 title: Data Science Bootcamp
