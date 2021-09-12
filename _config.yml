@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Uuser Centered Design Project FA 2021
+title: User Centered Design Project - Fall 2021
 email: lucia.jayne@colorado.edu
 description:
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
