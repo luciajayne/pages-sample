@@ -8,11 +8,13 @@ nav_order: 2
 
 Bio:
 
-![LJ-Photo](content/img/LJ-Photo.jpg)
+
+<img src='content/img/LJ-Photo.jpg' width='250' alt='Lucia'>
 
 
 **Sahitya Kollipara**
 
 Bio:
 
-![SK-Photo](content/img/SK-Photo.jpg)
+<img src='content/img/SK-Photo.jpg' width='250' alt='Sahitya'>
+
