@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proposal
-permalink: /proposal/
+nav_order: 3
 ---
 
 
