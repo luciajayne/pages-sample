@@ -8,5 +8,5 @@ title: Home
 
 Description:
 
-- [Team](01-team)
-- [Proposal](02-proposal)
+- [Team](02-team)
+- [Proposal](03-proposal)
