@@ -1,15 +1,13 @@
 ---
-
 layout: default
-title: Data Science Bootcamp
-
+title: Home
+permalink: /home/
 ---
 
-## Digital Declutter Research!
+**Project Name**
 
 
-#### Here are some example pages:
+Description:
 
-- [Markdown](02-markdown-examples)
-- [Images](03-images-examples)
-- [Embeds](04-embeds-examples)
+- [Team](01-team)
+- [Proposal](02-proposal)
