@@ -3,7 +3,8 @@ layout: default
 title: Home
 nav_order: 1
 ---
-(https://www.colorado.edu/profiles/express/themes/ucb/images/cu-boulder-logo-text-white.svg)
+
+<img src='https://www.colorado.edu/profiles/express/themes/ucb/images/cu-boulder-logo-text-white.svg' width='250' alt='CU-Banner'>
 
 **Project Name**
 
