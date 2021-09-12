@@ -8,6 +8,6 @@ nav_order: 1
 
 
 Description:
-
+- [Home](index)
 - [Team](02-team)
 - [Proposal](03-proposal)
