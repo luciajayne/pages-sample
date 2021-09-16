@@ -7,7 +7,7 @@ nav_order: 2
 
 julia.jarzemsky@colorado.edu 
 
-<img src='content/img/JJ-Photo.jpg' width='250' alt='Julia'>
+<img src='content/img/JJ-Photo.png' width='250' alt='Julia'>
 
 
 **Lucia Jayne**
