@@ -3,9 +3,9 @@ layout: default
 title: Team
 nav_order: 2
 ---
-**Julia Jarzemsky**
+**Julie Jarzemsky**
 
-julia.jarzemsky@colorado.edu 
+julie.jarzemsky@colorado.edu 
 
 <img src='content/img/JJ-Photo.png' width='250' alt='Julia'>
 
