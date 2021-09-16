@@ -13,4 +13,4 @@ Ghosted is an app that helps adults discover new supernatural stories by explori
 
 - [Home](index)
 - [Team](02-team)
-- [Proposal](03-proposal)
+- [Deliverables](03-proposal)
